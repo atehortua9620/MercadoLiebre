@@ -1,0 +1,19 @@
+{
+  "name": "pg_clase_11",
+  "version": "1.0.0",
+  "description": "this is an exercise propused on playground based on Mercado libre.",
+  "main": "Src/app.js",
+  "scripts": {
+    "start":"node app.js",
+    "dev":"nodemon app.js",
+    "test": "nodemon Src/app.js"
+  },
+  "author": "ING Andrés Atehortua.",
+  "license": "ISC", 
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
