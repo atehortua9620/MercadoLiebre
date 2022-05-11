@@ -4,7 +4,7 @@
   "description": "this is an exercise propused on playground based on Mercado libre.",
   "main": "Src/app.js",
   "scripts": {
-    "start":"node app.js",
+    "start":"node Src/app.js",
     "dev":"nodemon app.js",
     "test": "nodemon Src/app.js"
   },
